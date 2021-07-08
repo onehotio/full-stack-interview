@@ -34,4 +34,4 @@ Behavior
 
 ## Deliverables
 
-The code should be written as a Node.js library that anyone can import and use. It should contain documentation and tests that show your understanding of the problem. Once you&#39;re finished, submit a PR to this repo.
+The code should be written as a Node.js library that anyone can import and use. It should contain documentation and tests that show your understanding of the problem. Once you&#39;re finished, please zip your code and e-mail the submission to stack@onehot.io, comfort@onehot.io, and nanx@onehot.io. A github repo would also work well!
