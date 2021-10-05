@@ -34,4 +34,4 @@ Behavior
 
 ## Deliverables
 
-The code should be written as a Node.js library that anyone can import and use. It should contain documentation and tests that show your understanding of the problem. Once you&#39;re finished, please zip your code and e-mail the submission to stack@onehot.io, comfort@onehot.io, and nanx@onehot.io.
+The code should be written as a Node.js library that anyone can import and use. It should contain documentation and tests that show your understanding of the problem. Once you&#39;re finished, please zip your code and e-mail the submission to stack@onehot.io and comfort@onehot.io.
